@@ -1,8 +1,18 @@
 {
 	"painting": [
 		{
+			"image": "https://cdn.jsdelivr.net/gh/Dimensionist/data@e9db613b5b124d8d125cc38acfdeb67bb3c83768/portfolio/images/Dani.jpg",
+			"name": "Dani",
+			"@type": "Painting"
+		},
+		{
 			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494464667397.png",
 			"name": "Carwash",
+			"@type": "Painting"
+		},
+		{
+			"image": "http://data.mavo.io/portfolio/images/web-coffe-marilyn.jpg",
+			"name": "Web Coffe Marilyn",
 			"@type": "Painting"
 		},
 		{
@@ -13,11 +23,6 @@
 		{
 			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494528646446.png",
 			"name": "Fishwall",
-			"@type": "Painting"
-		},
-		{
-			"image": "http://data.mavo.io/portfolio/images/web-coffe-marilyn.jpg",
-			"name": "Web Coffe Marilyn",
 			"@type": "Painting"
 		},
 		{
